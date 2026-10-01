@@ -1,6 +1,6 @@
 ## Hi, I'm Odiraa 👋
 
-Frontend-focused full-stack developer based in **Düsseldorf, Germany**, open to Werkstudent, junior frontend and full-stack roles.
+Software developer based in Düsseldorf, Germany, with strong frontend skills and deepening full-stack ability, open to Werkstudent, junior / mid  frontend and full-stack roles.
 
 ### 🛠️ Tech stack
 **Frontend:** React · TypeScript · Vite · Tailwind CSS · JavaScript (ES6+)
